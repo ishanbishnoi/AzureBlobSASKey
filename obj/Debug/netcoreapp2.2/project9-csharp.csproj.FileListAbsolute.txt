@@ -1,0 +1,11 @@
+C:\Users\ishan.bishnoi\project9-csharp\bin\Debug\netcoreapp2.2\project9-csharp.deps.json
+C:\Users\ishan.bishnoi\project9-csharp\bin\Debug\netcoreapp2.2\project9-csharp.runtimeconfig.json
+C:\Users\ishan.bishnoi\project9-csharp\bin\Debug\netcoreapp2.2\project9-csharp.runtimeconfig.dev.json
+C:\Users\ishan.bishnoi\project9-csharp\bin\Debug\netcoreapp2.2\project9-csharp.dll
+C:\Users\ishan.bishnoi\project9-csharp\bin\Debug\netcoreapp2.2\project9-csharp.pdb
+C:\Users\ishan.bishnoi\project9-csharp\obj\Debug\netcoreapp2.2\project9-csharp.csprojAssemblyReference.cache
+C:\Users\ishan.bishnoi\project9-csharp\obj\Debug\netcoreapp2.2\project9-csharp.csproj.CoreCompileInputs.cache
+C:\Users\ishan.bishnoi\project9-csharp\obj\Debug\netcoreapp2.2\project9-csharp.AssemblyInfoInputs.cache
+C:\Users\ishan.bishnoi\project9-csharp\obj\Debug\netcoreapp2.2\project9-csharp.AssemblyInfo.cs
+C:\Users\ishan.bishnoi\project9-csharp\obj\Debug\netcoreapp2.2\project9-csharp.dll
+C:\Users\ishan.bishnoi\project9-csharp\obj\Debug\netcoreapp2.2\project9-csharp.pdb
